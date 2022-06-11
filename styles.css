@@ -2,7 +2,8 @@
     margin: 0 auto;
     /* min-width: 300px; */
     /* height: auto; */
-    width: 272px;
+    /* width: 272px; */
+    /* width: calc(16 * 17px); */
     height: auto;
     /* border: 1px solid black; */
     display: flex;
